@@ -30,17 +30,17 @@ def main():
 
     # ==================== Tests ====================
 
-    print("Spectateurs présents dans la salle 1 :")
-    for spectateur in spectateurs1:
-        print(spectateur)
+    # print("Spectateurs présents dans la salle 1 :")
+    # for spectateur in spectateurs1:
+    #     print(spectateur)
 
-    print("\nSpectateurs présents dans la salle 2 :")
-    for spectateur in spectateurs2:
-        print(spectateur)
+    # print("\nSpectateurs présents dans la salle 2 :")
+    # for spectateur in spectateurs2:
+    #     print(spectateur)
 
-    print("\nSpectateurs présents dans la salle 3 :")
-    for spectateur in spectateurs3:
-        print(spectateur)
+    # print("\nSpectateurs présents dans la salle 3 :")
+    # for spectateur in spectateurs3:
+    #     print(spectateur)
 
     # print("\nSpectateurs présents dans les deux premiers salles :")
     # for spectateur in pres12:
